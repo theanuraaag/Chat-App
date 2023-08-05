@@ -1,4 +1,4 @@
-#Chat-App 
+# Chat-App 
 A basic Chat-App created using React.Js, Sass and Firebase is used for authentication and storing chats and user profile and avatars.
 
 Project Link: https://chat-app-001.vercel.app
